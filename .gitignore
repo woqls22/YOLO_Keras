@@ -107,3 +107,8 @@ ENV/
 # mypy
 .mypy_cache/
 bidenspeech.mp4
+k-enter.mp4
+movie.mp4
+result.mp4
+speeches.mp4
+test.mp4
