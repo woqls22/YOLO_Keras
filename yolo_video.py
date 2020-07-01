@@ -9,7 +9,7 @@ def detect_img(yolo):
     while True:
         img = input('Input image filename:')
         try:
-            image = Image.open(img)
+            image = Image.open('./src/'+img)
         except:
             print('Open Error! Try again!')
             continue
